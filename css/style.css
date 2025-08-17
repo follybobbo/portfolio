@@ -1,0 +1,75 @@
+body {
+    background-color: #fbfbfb;
+}
+
+.nav-bar{
+    padding-inline: 200px;
+}
+
+.folly {
+    color: #C5BAFF;
+}
+.intro {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.first-svg{
+    width: 28%;
+    height: 28%;
+}
+
+
+
+.computer-img{ 
+    align-items: center;   
+    justify-content: center; 
+    width: auto;  
+    height: auto;
+}
+
+.my-picture{
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.section-3{
+    margin: 0;
+    background-color: #C5BAFF;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+   
+}
+
+.section-3-text {
+    color: #fbfbfb;
+}
+
+.features {
+    margin-top: -10%;
+}
+
+.stack-heading {
+    margin-bottom: 80px;
+}
+.dev-tools {
+    color: #C5BAFF;
+}
+
+.svg {
+    background-color: #C5BAFF;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.footer{
+    background-color: #C5BAFF;
+    margin: 0;
+    
+}
+
+
+  
